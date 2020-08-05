@@ -8,7 +8,7 @@ VUWG: Valid User Wordlist Generator
 Generates username and password wordlists to brute-force test against a
 specific user given a valid username and password. The intent of this script
 is to provide an easy-to-use wordlist generator to test applications with
-account lock mechanisms that reset themselves after a valid login attempt.
+IP lock mechanisms that reset themselves after a valid login attempt.
 
 Disclaimer: for educational purposes only.
 Do not use this script for illegal activities.
