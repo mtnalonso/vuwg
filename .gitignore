@@ -1,0 +1,5 @@
+*.pyc
+*.swp
+__pycache__/
+generated_password_list.txt
+generated_username_list.txt
